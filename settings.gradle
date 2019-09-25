@@ -1,2 +1,3 @@
-rootProject.name = 'crawler_example'
+rootProject.name = 'crawler'
 
+include 'crawler_webapp', 'crawler_batch', 'crawler_common'

@@ -9,7 +9,7 @@ buildScan {
 }
 
 subprojects {
-    group 'crawler'
+    group 'crawler_example'
     version '1.0-SNAPSHOT'
 
     apply plugin:'java'

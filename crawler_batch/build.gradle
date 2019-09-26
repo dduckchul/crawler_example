@@ -3,11 +3,8 @@ plugins{
     id 'io.spring.dependency-management' version '1.0.8.RELEASE'
 }
 
-dependencies{
-    compile project(':crawler_common')
-}
-
 dependencies {
+    compile project(':crawler_common')
     implementation 'org.springframework.boot:spring-boot-starter-batch'
     runtimeOnly 'org.hsqldb:hsqldb'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'

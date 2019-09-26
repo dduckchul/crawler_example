@@ -3,7 +3,7 @@ crawler example use spring boot & spring batch with beautiful soup4
 
 ------
 
-##Gradle Multi Modules 참고 자료 
+## Gradle Multi Modules 참고 자료 
   * https://jojoldu.tistory.com/123
   * http://woowabros.github.io/study/2019/07/01/multi-module.html
 

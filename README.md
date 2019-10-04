@@ -1,7 +1,7 @@
 # crawler_example
 crawler example use spring boot & spring batch with beautiful soup4
 나도 브랜치 땄음
-
+https://docs.spring.io/spring-batch/4.0.x/reference/html/job.html#runningJobsFromWebContainer
 ------
 
 ## Gradle Multi Modules 참고 자료 

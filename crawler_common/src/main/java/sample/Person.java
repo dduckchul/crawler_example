@@ -1,4 +1,4 @@
-package test;
+package sample;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

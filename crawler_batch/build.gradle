@@ -9,4 +9,5 @@ dependencies {
     runtimeOnly 'org.hsqldb:hsqldb'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation 'org.springframework.batch:spring-batch-test'
+    compile 'org.jsoup:jsoup:1.12.1'
 }

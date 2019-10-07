@@ -3,7 +3,6 @@ package sample;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.item.ItemProcessor;
-import test.Person;
 
 public class SpringSample implements ItemProcessor<Person, Person> {
     private static final Logger log = LoggerFactory.getLogger(SpringSample.class);
